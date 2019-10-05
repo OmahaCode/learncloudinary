@@ -2,7 +2,7 @@
 template: DefaultPage
 slug: default
 title: Default
-featuredImage: https://ucarecdn.com/7ec2ff8c-5ef7-4dd8-b551-baa44d114cc3/
+featuredImage: https://res.cloudinary.com/nkh/image/upload/dpr_1.0,f_auto,q_auto/v1570265764/cloudinary_api_docs.png
 meta:
   description: test meta description
   title: test meta title
