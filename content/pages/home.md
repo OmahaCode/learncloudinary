@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Cloudinary API
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://res.cloudinary.com/nkh/image/upload/dpr_auto,f_auto,q_auto/cloudinary_image_transformation_tutorials.png'
 subtitle: ' Cloudinary API documentation for developers.'
 meta:
   description: This is a meta description.
