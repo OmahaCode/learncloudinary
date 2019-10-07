@@ -8,11 +8,10 @@ meta:
   description: Cloudinary API documentation and tutorials for developers.
   title: Cloudinary API Documentation for Developers.
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+Learn how to become a [Media Developer Expert](https://cloudinary.com/blog/announcing_cloudinary_s_media_developer_experts_program) and advance the state of media management, adoption, and best practices; while making the web more accessible.
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
 
-## Features
+## API Reference
 
 * **[Gatsby](https://gatsbyjs.org)** static site generator
 * **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
