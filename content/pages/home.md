@@ -5,14 +5,14 @@ title: Cloudinary API
 featuredImage: 'https://res.cloudinary.com/nkh/image/upload/dpr_auto,f_auto,q_auto/cloudinary_image_transformation_tutorials.png'
 subtitle: ' Cloudinary API documentation for developers.'
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Cloudinary API documentation and tutorials for developers.
+  title: Cloudinary API Documentation for Developers.
 ---
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
 View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
 
-# Features
+## Features
 
 * **[Gatsby](https://gatsbyjs.org)** static site generator
 * **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
@@ -23,7 +23,7 @@ View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-r
 * Seamless image and content sliders
 * Instagram feed integration
 
-## Get started
+### Get started
 
 View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
 
