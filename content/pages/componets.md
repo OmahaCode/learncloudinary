@@ -25,7 +25,7 @@ section2: |-
   allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 video: 'https://res.cloudinary.com/nkh/video/upload/q_auto/cloudinary_api_video.mp4'
-videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'
+videoPoster: 'https://res.cloudinary.com/nkh/image/upload/dpr_auto,f_auto,q_auto/cloudinary_image_transformation_tutorials.png'
 videoTitle: Also background videos, with poster image & title overlay.
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
