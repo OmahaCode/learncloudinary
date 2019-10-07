@@ -3,7 +3,7 @@ template: DefaultPage
 slug: test slug
 title: This is a test info page
 featuredImage: >-
-  https://ucarecdn.com/0a485165-65c4-42ee-bf35-b93fbaf0fd2e/-/preview/-/rotate/270/
+  https://res.cloudinary.com/nkh/image/upload/v1563652296/cloudinary_learn.jpg
 meta:
   description: test meta description
   title: test meta title
