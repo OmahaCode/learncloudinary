@@ -17,10 +17,14 @@ Learn how to become a [Media Developer Expert](https://cloudinary.com/blog/annou
 * **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
 * Dynamic menus and forms
 * **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+* Upload API reference
+* Image transformation reference
+* Video transformation reference
+* Admin API
+* Search API
+* Video player API reference
+* API response reference
+* Signature quick reference
 
 ### Get started
 
