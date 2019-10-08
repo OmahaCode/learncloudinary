@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
+featuredImage: https://res.cloudinary.com/cloudinaryapi/image/upload/f_auto,q_auto/v1570512987/cloudinary_developer_expert.webp
 subtitle: Need help? Reach out to a certified Cloudinary Media Developer Expert.
 address: '404 James St, Burleigh Heads QLD 4220'
 phone: 0987 123 456
