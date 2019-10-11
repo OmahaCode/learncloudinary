@@ -5,9 +5,10 @@ backend:
 
 # display_url: https://gatsbro.netlify.com # This url will display in the top-right of the CMS
 media_library:
-  name: uploadcare
+  name: cloudinary
   config:
-    publicKey: a73a170cb5cdef662983
+    cloud_name: cloudinaryapi
+    api_key: 612967284217688
     multiple: false
     tabs: 'file camera url facebook gdrive'
     effects: 'crop,rotate,enhance,grayscale'
