@@ -2,7 +2,7 @@
 template: ComponentsPage
 slug: components
 title: Components Page
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
+featuredImage: 'https://res.cloudinary.com/cloudinaryapi/image/upload/v1571323083/cloud-3805852_1280_yorbi7.png'
 subtitle: This is the components page subtitle.
 section1: >-
   ## This is a container component
@@ -38,7 +38,7 @@ accordion:
     title: Taciti lorem
 gallery:
   - alt: yellow rope image
-    image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
+    image: 'https://res.cloudinary.com/cloudinaryapi/image/upload/v1571323083/cloud-3805852_1280_yorbi7.png'
     title: Yellow Rope
   - alt: umbrellas
     image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
