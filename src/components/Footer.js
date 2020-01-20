@@ -13,8 +13,8 @@ export default () => (
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{' '}
-          <a href="https://thriveweb.com.au/">Thrive</a>.
+          © Copyright {new Date().getFullYear()} All rights reserved.{' '}
+          <a href="https://neil.uxengineer.dev/">UX Engineer | Neil Humphrey</a>.
         </span>
       </div>
     </footer>

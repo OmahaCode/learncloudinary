@@ -16,7 +16,6 @@ Learn how to become a [Media Developer Expert](https://cloudinary.com/blog/annou
 * **[Gatsby](https://gatsbyjs.org)** static site generator
 * **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
 * Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
 * Upload API reference
 * Image transformation reference
 * Video transformation reference
